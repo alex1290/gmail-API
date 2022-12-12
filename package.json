@@ -8,7 +8,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^39.2.0",
     "pg": "^8.2.1"
   },
